@@ -14,7 +14,7 @@ let questions = [
     {
     numb: 2,
     question: "tallest building in world : ?",
-    answer: "Burj khalifa ",
+    answer: "Burj khalifa",
     options: [
     "burj al arab",
     "Burj khalifa",
